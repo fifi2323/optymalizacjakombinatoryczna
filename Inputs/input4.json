@@ -1,0 +1,76 @@
+{
+    "Amount of tests" : 1,
+    "Knapsack Mass" : 0,
+    "Knapsack Volume" : 0,
+    "Changing n" : "Yes",
+    "Random elements" : "Yes",
+    "n": 20,
+    "Items": [
+        [
+            "index = 1",
+            "volume = 8",
+            "mass = 13",
+            "value = 0"
+        ],
+        [
+            "index = 2",
+            "volume = 7",
+            "mass = 15",
+            "value = 8"
+        ],
+        [
+            "index = 3",
+            "volume = 11",
+            "mass = 8",
+            "value = 8"
+        ],
+        [
+            "index = 4",
+            "volume = 7",
+            "mass = 1",
+            "value = 6"
+        ],
+        [
+            "index = 5",
+            "volume = 1",
+            "mass = 12",
+            "value = 12"
+        ],
+        [
+            "index = 6",
+            "volume = 4",
+            "mass = 6",
+            "value = 13"
+        ],
+        [
+            "index = 7",
+            "volume = 11",
+            "mass = 13",
+            "value = 16"
+        ],
+        [
+            "index = 8",
+            "volume = 14",
+            "mass = 15",
+            "value = 9"
+        ],
+        [
+            "index = 9",
+            "volume = 1",
+            "mass = 1",
+            "value = 9"
+        ],
+        [
+            "index = 10",
+            "volume = 12",
+            "mass = 19",
+            "value = 15"
+        ],
+        [
+            "index = 11",
+            "volume = 12",
+            "mass = 5",
+            "value = 6"
+        ]
+    ]
+}
