@@ -1,0 +1,25 @@
+{
+    "Average time and percentage of optimal solution.": [
+        [
+            [
+                "n = 25"
+            ],
+            [
+                "Greedy = 15.000000µs",
+                "92.36%"
+            ],
+            [
+                "Weighted Greedy = 14.000000µs",
+                "94.27%"
+            ],
+            [
+                "Dynamic = 25382.000000µs",
+                "100.00%"
+            ],
+            [
+                "Force = 43437484.000000µs",
+                "100.00%"
+            ]
+        ]
+    ]
+}

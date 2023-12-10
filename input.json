@@ -3,14 +3,14 @@
     "Knapsack Mass" : 0,
     "Knapsack Volume" : 0,
     "Changing n" : "Yes",
-    "Random elements" : "Yes",
-    "n": 24,
+    "Random elements" : "No",
+    "n": 25,
     "Items": [
         [
             "index = 1",
             "volume = 8",
             "mass = 13",
-            "value = 0"
+            "value = 5"
         ],
         [
             "index = 2",
@@ -134,13 +134,25 @@
         ],
         [
             "index = 22",
-            "volume = 0",
+            "volume = 5",
             "mass = 7",
             "value = 5"
         ],
         [
             "index = 23",
             "volume = 3",
+            "mass = 14",
+            "value = 14"
+        ],
+        [
+            "index = 24",
+            "volume = 3",
+            "mass = 18",
+            "value = 14"
+        ],
+        [
+            "index = 25",
+            "volume = 5",
             "mass = 14",
             "value = 14"
         ]
